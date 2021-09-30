@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cb5c5e4-3aa0-4acd-b72c-2385f403eb08" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hUa9a6t3pphdoYOgMqgxJCcosL" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.thumbtack.school.misc.v2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.thumbtack.school.misc.v2" />
+      <recent name="net.thumbtack.school.figures.v2" />
+      <recent name="net.thumbtack.school" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.thumbtack.school.misc.v2" />
+      <recent name="net.thumbtack.school.figures.v2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Thumbtack\thumbtack_online_school_2020_2_anzhelika_vodian\src\test\java\net\thumbtack\school\misc\v3" />
+      <recent name="C:\Thumbtack\thumbtack_online_school_2020_2_anzhelika_vodian\src\main\java\net\thumbtack\school\misc\v3" />
+      <recent name="C:\Thumbtack\thumbtack_online_school_2020_2_anzhelika_vodian\src\main\java\net\thumbtack\school\iface\v3" />
+      <recent name="C:\Thumbtack\thumbtack_online_school_2020_2_anzhelika_vodian\src\main\java\net\thumbtack\school\figures\v3" />
+      <recent name="C:\Thumbtack\thumbtack_online_school_2020_2_anzhelika_vodian\src\main\java\net\thumbtack\school\figures\v2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.thumbtack.school.library.service" />
+      <recent name="net.thumbtack.school.library.dto.request" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.testBook">
+    <configuration name="testBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.boxes.library.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.boxes.library.model" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.boxes.library.model.testBook" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBook.testWrongToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.boxes.library.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.boxes.library.model" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.boxes.library.model.testBook" />
+      <option name="METHOD_NAME" value="testWrongToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testServer.serverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.boxes.library.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.boxes.library.server" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.boxes.library.server.testServer" />
+      <option name="METHOD_NAME" value="serverTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.boxes.library.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.boxes.library.model" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.boxes.library.model.testUser" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testUser.testDeleteAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.thumbtack.school.boxes.library.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.thumbtack.school.boxes.library.model" />
+      <option name="MAIN_CLASS_NAME" value="net.thumbtack.school.boxes.library.model.testUser" />
+      <option name="METHOD_NAME" value="testDeleteAccountUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testBook" />
+        <item itemvalue="JUnit.testUser" />
+        <item itemvalue="JUnit.testUser.testDeleteAccountUser" />
+        <item itemvalue="JUnit.testServer.serverTest" />
+        <item itemvalue="JUnit.testBook.testWrongToken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb5c5e4-3aa0-4acd-b72c-2385f403eb08" name="Default Changelist" comment="" />
+      <created>1600067973876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600067973876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/net/thumbtack/school/figures/v3/TestFilledEllipse.java</url>
+          <line>14</line>
+          <properties class="net.thumbtack.school.figures.v3.TestFilledEllipse" method="testFilledEllipse1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/net/thumbtack/school/figures/v3/TestFilled.java</url>
+          <line>11</line>
+          <properties class="net.thumbtack.school.figures.v3.TestFilled" method="testSetFillStyle1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/net/thumbtack/school/figures/v3/TestFilledCircle.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lessons$All_in_lessons.ic" NAME="All in lessons Coverage Results" MODIFIED="1601366879877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lessons$TestNumberOperations.ic" NAME="TestNumberOperations Coverage Results" MODIFIED="1600111515179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.thumbtack.school.base.*</FILTER>
+    </SUITE>
+  </component>
+</project>
